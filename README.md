@@ -1,11 +1,15 @@
-# Spryker Commerce OS
+# MerchantProductOfferStorageExtension Module
+[![Build Status](https://travis-ci.org/spryker/merchant-product-offer-storage-extension.svg)](https://travis-ci.org/spryker/merchant-product-offer-storage-extension)
+[![Coverage Status](https://coveralls.io/repos/github/spryker/merchant-product-offer-storage-extension/badge.svg)](https://coveralls.io/github/spryker/merchant-product-offer-storage-extension)
 
-## Core Modules
+Merchant product offer storage extension module provides an interfaces of plugins to extend MerchantProductOfferStorage module from the other modules.
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
-[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%207.2-8892BF.svg)](https://php.net/)
+## Installation
 
-### Links
-- **[Spryker Documentation](https://academy.spryker.com/)**
-- [Spryker Architecture-Sniffer](https://github.com/spryker/architecture-sniffer)
-- [Spryker Code-Sniffer](https://github.com/spryker/code-sniffer)
+```
+composer require spryker/merchant-product-offer-storage-extension
+```
+
+## Documentation
+
+[Spryker Documentation](https://academy.spryker.com/developing_with_spryker/module_guide/modules.html)
